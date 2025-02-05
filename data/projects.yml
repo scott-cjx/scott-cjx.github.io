@@ -1,0 +1,17 @@
+
+electrical:
+  - name: "small-general"
+    link: scott-cjx.github.io/small-general
+  - name: "bigger-brain"
+    link: scott-cjx.github.io/small-general
+  - name: "chao-recruit"
+    link: scott-cjx.github.io/small-general
+
+software:
+  - name: "a sofware"
+    link: "/"
+
+robotics:
+  - name: "a robot"
+    link: "/"
+
