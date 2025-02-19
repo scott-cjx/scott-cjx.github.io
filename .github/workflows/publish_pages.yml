@@ -1,0 +1,44 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Change this if your default branch is different
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'  # Use a stable Ruby version
+          bundler-cache: true
+
+      - name: Install Jekyll Dependencies
+        run: |
+          gem install jekyll bundler
+          bundle install
+
+      - name: Build Jekyll Site
+        run: bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site  # Jekyll outputs to _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Deploy GitHub Pages
+        uses: actions/deploy-pages@v4
