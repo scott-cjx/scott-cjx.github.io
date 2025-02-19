@@ -10,14 +10,12 @@ columns:
       - name: Contact
         url: "/contact"
 
-  - title: "Follow Us"
+  - title: "Social Media"
     links:
-      - name: Twitter
-        url: "https://twitter.com/"
       - name: LinkedIn
-        url: "https://linkedin.com/"
+        url: "https://www.linkedin.com/in/scott-cheng-802138154/"
       - name: GitHub
-        url: "https://github.com/"
+        url: "https://github.com/scott-cjx"
 
   - title: "Legal"
     links:
@@ -26,4 +24,4 @@ columns:
       - name: Terms of Service
         url: "/terms-of-service"
 
-copyright: "© 2024 Scott CJX. All Rights Reserved."
+copyright: "© 2025 Scott CJX. All Rights Reserved."
