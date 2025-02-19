@@ -9,11 +9,13 @@
 </head>
 <body>
 
-    {% include navbar.md %}  <!-- Includes the navbar -->
-    
+    {% include navbar.md %}  <!-- Navbar -->
+
     <div class="container mt-4">
-        {{ content }}  <!-- This is where page content will be injected -->
+        {{ content }}  <!-- Page content will be injected here -->
     </div>
+
+    {% include footer.md %}  <!-- Footer -->
 
 </body>
 </html>
