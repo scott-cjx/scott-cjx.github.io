@@ -2,7 +2,7 @@
 title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-12-01-paper-title-number-1
 excerpt: ''
 date: 2025-12-01
 venue: 'NeurIPS 2025 Workshop on Foundation Models for the Brain and Body'
