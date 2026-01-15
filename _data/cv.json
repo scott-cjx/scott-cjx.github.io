@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Scott Cheng JX",
+    "email": "scotcjx.w@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://www.scottcjx.com",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Singapore",
+      "countryCode": "SG",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.ca/citations?user=_t5KgzMAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0007-3541-443X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "scott-cjx",
+        "url": "https://github.com/scott-cjx"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Nanyang Technological University",
+      "area": "B.Eng in Computer Science, Second Major in Entreprenuership",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Queens University",
+      "area": "Exchange",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2026",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Singapore Polyechnic",
+      "area": "Diploma (with Merit) in Engineering With Business",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2018",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     }
@@ -66,56 +66,14 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
+      "name": "Multi-modal, multi-species, and multi-task latent-space model for decoding level of consciousness",
+      "publisher": "NeurIPS 2025 Workshop on Foundation Models for the Brain and Body",
+      "releaseDate": "2025-12-01",
+      "website": "https://www.biorxiv.org/content/10.64898/2025.12.03.692227v1.full.pdf",
       "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
     }
   ],
   "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
     {
       "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
       "event": "Testing Institute of America 2014 Annual Conference",
