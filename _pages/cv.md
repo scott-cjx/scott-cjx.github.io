@@ -17,9 +17,9 @@ Education
 Work experience
 ======
 * Jun - Dec 2025 : Software and Data Engineering Intern
-  * (Axoft)[https://axoft.us]
+  * Axoft
   * Duties includes: ...
-  * Supervisor: Oliver Armitage
+  * Supervisor: Oliver Armitage, Meliya El Fakri
 
 Skills
 ======

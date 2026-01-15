@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Multi-modal, multi-species, and multi-task latent-space model for decoding level of consciousness"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-12-01-paper-title-number-1
